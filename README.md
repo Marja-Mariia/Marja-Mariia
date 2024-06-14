@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marja-Mariia
+- 👋 Hi, I’m Mariia Haponiuk
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Full stack developer
 - 💞️ I’m looking to collaborate on ...
